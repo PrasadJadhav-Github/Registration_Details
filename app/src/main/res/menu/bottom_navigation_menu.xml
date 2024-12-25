@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/registerNewMember"
+        android:icon="@drawable/registry"
+        android:title="Register New Member" />
+    <item
+        android:id="@+id/displayMemberList"
+        android:icon="@drawable/display"
+        android:title="Display Member List" />
+</menu>
